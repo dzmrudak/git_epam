@@ -3,9 +3,4 @@ wall of shields
 standing strong
 on this their batlle field
 
-<<<<<<< HEAD
-----------------------------
-=======
-song song song
-film film film
->>>>>>> 159b217fdae1178d7c39a88cd73fada8a94d03f1
+------------------------------
